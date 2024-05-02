@@ -3,3 +3,5 @@ Authors: Nina Lichtenberger (nlichtenberger@elon.edu) & David Neufang (dneufang@
 
 ## Project Description
 ### Questions of Interest
+
+[Elon University](https://elon.edu)
